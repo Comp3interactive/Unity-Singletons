@@ -1,5 +1,5 @@
 # Unity-Singletons
- A collection of write inheritable Singleton scripts for Unity
+ A collection of inheritable Singleton scripts for Unity
 
 <b>How to use</b></br>
 Simply inherit any of your scripts from either <code>Singleton&lt;T&gt;</code> or <code>SingletonDontDestroy&lt;T&gt;</code> and that script will automatically inherit it's own instance and be made available as a singleton</br></br>
